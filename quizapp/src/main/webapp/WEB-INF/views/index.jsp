@@ -15,6 +15,7 @@
 <div style="position: absolute; left: 120px; top: 60px">
 	<br> <br> <br> <br> <br> <br>
 	<table cellpadding="0" cellspacing="50">
+	<table cellpadding="5" cellspacing="50">
 
 		<tr>
 			<td><a href="#"><img height="200" width="200"
